@@ -1,7 +1,6 @@
 # Titanium Barcode Module
 
-This is the Barcode Module for Titanium built on top of the ZXing library (Android)
-and AVFoundation (iOS).
+This is the Barcode Module for Titanium built on top of the ZXing library Android and iOS.
 
 ## Contributors
 
